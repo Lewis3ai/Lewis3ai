@@ -1,5 +1,10 @@
-## Hi there 👋
+## Nailah Lewis
 
+Engineering reliable backends. Designing intuitive interfaces. Analyzing data patterns.
+
+Python • Flask • SQL • Figma • UX Heuristics
+
+Based in Trinidad 
 <!--
 **Lewis3ai/Lewis3ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
